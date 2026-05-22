@@ -1,0 +1,21 @@
+[100, 200, 300, 15001]
+PS D:\Baithuchanh9> node loop_processor.js
+15601
+true
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
+[-100, -200, -500]
+PS D:\Baithuchanh9> node loop_processor.js
+0
+false
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
+[]
+PS D:\Baithuchanh9> node loop_processor.js
+0
+false
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
+Đăng nhập thất bại. Vui lòng thử lại
